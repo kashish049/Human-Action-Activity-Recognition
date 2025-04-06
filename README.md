@@ -1,8 +1,5 @@
 
 
----
-
-```markdown
 # Human Activity Recognition using LSTM
 
 This project implements a Human Activity Recognition (HAR) system using deep learning techniques, specifically Long Short-Term Memory (LSTM) Recurrent Neural Networks. The model is designed to classify physical activities such as walking, sitting, standing, and more based on motion sensor data collected from smartphones.
