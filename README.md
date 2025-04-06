@@ -99,7 +99,7 @@ Final Year Computer Science Student | Deep Learning Enthusiast
 ## 📬 Contact
 
 - GitHub: [@kashish049](https://github.com/kashish049)
-- Email: (Add your email here if you'd like)
+- Email: (kashish04945@gmail.com)
 
 ---
 
