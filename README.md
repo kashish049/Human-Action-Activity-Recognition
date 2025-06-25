@@ -88,7 +88,7 @@ python data/download_dataset.py
 
 ## 🧑‍💻 Author
 
-**Kashish**  
+**Ashish**  
 Final Year Computer Science Student | Deep Learning Enthusiast
 
 ---
