@@ -100,9 +100,3 @@ Final Year Computer Science Student | Deep Learning Enthusiast
 
 ---
 
-## 📝 License
-
-This project is open-source and available under the MIT License.
-```
-
----
